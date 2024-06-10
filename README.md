@@ -1,3 +1,3 @@
-#My first shell :)
-I'll just keep making them till I can make one in my sleep idc
-Yo! If you see this, I'm in the copy & learning phase ig. 
+My first shell :)
+
+Using it mostly for learning purposes, so if you come here to look for whatever reason, just know that it'll be chock full of comments :).
